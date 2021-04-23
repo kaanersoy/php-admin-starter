@@ -1,0 +1,14 @@
+.login-box {
+  .login-logo {
+    a {
+      position: relative;
+    }
+    small {
+      left: 0;
+      bottom: 5px;
+      transform: translateX(calc(-100% - 8px));
+      position: absolute;
+      font-size: 13px;
+    }
+  }
+}
